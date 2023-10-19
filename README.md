@@ -1,11 +1,11 @@
-<!-- ### Hi there 👋 Welcome to my GitHub profile -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=40&pause=1000&color=FF7C96&center=true&vCenter=true&random=false&width=1200&lines=Hi+there%2C+I'm+Yasmin+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;I'm+a+developer;I'm+a+builder;I'm+a+foodie)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1200&lines=Nice+to+meet+you!;Web+%26+Mobile+App;I+love+to+build+things%2C+from+furniture+to+apps!;Need+a+recommendation+for+lunch+or+dinner%3F+Ask+me!)](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 About Me
 - A recent grad full-stack web & mobile app developer looking for my next opportunity!
 - Life-long learner focusing to expand my knowledge on ***React*** at the moment
+
+---
 
 ### ⚡ Tech Stack
 #### Languages
@@ -65,7 +65,9 @@
 - Baking sweet treats is my therapy, and I love sharing the joy with friends! 🍰🎉
 - I have a passion for language learning! I'm native in Portuguese and fluent in English and Spanish. I also know some Japanese and French! 🗣️
 - I enjoy volunteering in my free time 🤝
-  
+
+---
+
 ### 📫 Let's keep in touch!
 <p>I would love to receive a message from you!</p>
 <div>
