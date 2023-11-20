@@ -54,8 +54,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-43lxj7rrs-yasmins-projects-216cc63f.vercel.app/api?username=yaskk&theme=dracula&show_icons=true&hide_border=true" alt="yaskk's Stats" height="175em">
-  <img src="https://github-readme-stats-43lxj7rrs-yasmins-projects-216cc63f.vercel.app/api/top-langs/?username=yaskk&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="yaskk's Top Languages" height="175em">
+  <img src="https://github-readme-stats-eight-nu-96.vercel.app/api?username=yaskk&theme=dracula&show_icons=true&hide_border=true" alt="yaskk's Stats" height="175em"> 
+  <img src="https://github-readme-stats-eight-nu-96.vercel.app/api/top-langs/?username=yaskk&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="yaskk's Top Languages" height="175em">
 </div>
 
 ### ✨ Fun Facts
